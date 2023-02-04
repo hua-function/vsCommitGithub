@@ -22,4 +22,8 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
+<<<<<<< HEAD
 /src/views/Login
+=======
+/src/views/Login
+>>>>>>> home
