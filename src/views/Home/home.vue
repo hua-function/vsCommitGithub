@@ -1,5 +1,5 @@
 <template>
-  <div class="home">home主页1</div>
+  <div class="home">home主页12</div>
 </template>
 
 <script>
